@@ -3,5 +3,3 @@
 - 🌱 I’m currently learning ... Javascript. 
 - 💞️ I’m looking to collaborate on ...Anything. 
 - 📫 How to reach me ... talal.nadeemzafar@gmail.com
-
-This is a test 
