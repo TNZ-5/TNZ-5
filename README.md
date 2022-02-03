@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TNZ-5 from 🇵🇰
 - 👀 I’m interested in ... *programming* duh !
-- 🌱 I’m currently learning ... Javascript. 
+- 🌱 I’m currently learning ... Javascript and C++ 😢. 
 - 💞️ I’m looking to collaborate on ...Anything. 
 - 📫 reach me @ talal.nadeemzafar@gmail.com
