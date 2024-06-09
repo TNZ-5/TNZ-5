@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-👋 Hi, I’m @TNZ-5 from 🇵🇰<br>👀 I’m interested in ... ML !<br>🌱 I’m currently learning ... Java.<br>💞️ I’m looking to collaborate on ...Anything.<br>📫 reach me at talalnadeem24@gmai.com
+👋 Hi, I’m @TNZ-5 from 🇵🇰<br>👀 I’m interested in ... ML !<br>🌱 I’m currently learning ... ML.<br>💞️ I’m looking to collaborate on ...Anything.<br>📫 reach me at talal.nadeemzafar@gmail.com
 
 
 # 💻 Tech Stack:
