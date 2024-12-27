@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-👋 Hi, I’m @TNZ-5 from 🇵🇰<br>👀 I’m interested in ... ML !<br>🌱 I’m currently learning ... ML.<br>💞️ I’m looking to collaborate on ...Anything.<br>📫 reach me at talal.nadeemzafar@gmail.com
+👋 Hi, I’m TALAL from 🇵🇰<br>👀 I’m interested in ... ML !<br>🌱 I’m currently learning ... GoLang.<br>💞️ I’m looking to collaborate on ...Anything.<br>📫 reach me at talal.nadeemzafar@gmail.com
 
 
 # 💻 Tech Stack:
